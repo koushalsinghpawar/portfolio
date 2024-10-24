@@ -84,7 +84,7 @@ const About = () => {
                   <li className="btn btn-success">
                     <Link
                       className="text-white text-decoration-none"
-                      to="/projects"
+                      to="/project"
                     >
                       click here to see all my projects
                     </Link>
